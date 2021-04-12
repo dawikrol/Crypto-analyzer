@@ -4,10 +4,10 @@ My training project. I want learn how use external API and how create full inter
 Maybe in the future I will develop this project into desktop application to full Technical Analysis.
 
 ## Table of contents
-* [Technologies]
-* [API]
-* [Database]
-* [Dashboard]
+* [Technologies](#)
+* [API](#)
+* [Database](#)
+* [Dashboard](#)
 
 
 ## Technologies
