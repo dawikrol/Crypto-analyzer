@@ -1,7 +1,7 @@
 # Crypto-analyser-dashboard
 
-My training project. I want learn how use external API and how create full interactive dashboards in jupyter notebook.
-Maybe in the future I will develop this project into desktop application to full Technical Analysis.
+My training project. I want to learn how use external API and how create full interactive dashboards in jupyter notebook.
+Maybe, in the future I will develop this project into desktop application to full Technical Analysis.
 
 ## Table of contents
 * [Technologies](#Technologies)
